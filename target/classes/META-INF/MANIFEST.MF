@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: poo-academia
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: boris
+Implementation-Vendor-Id: com.algaworks
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/poo-academia
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
